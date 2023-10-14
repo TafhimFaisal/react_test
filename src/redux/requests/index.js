@@ -1,6 +1,5 @@
 import axios from 'axios';
 import Cookies from 'universal-cookie';
-import { logout } from '../actions/AuthAction';
 
 export const baseURL = process.env.REACT_APP_BASE_URL,
              userName = process.env.USER_NAME,

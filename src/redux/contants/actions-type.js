@@ -4,7 +4,6 @@ export const AuthActionType = {
     LOGOUT:     "LOGOUT",
     ME:         "ME",
     REFRESHED:  "REFRESHED",
-    UPDATE:     "UPDATE",
 }
 
 export const InviteActionType = {
